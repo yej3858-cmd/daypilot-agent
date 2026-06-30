@@ -35,13 +35,13 @@ DEFAULT_PERSONAL = [
     {"time": "19:00", "priority": "보통", "content": "운동"},
 ]
 SAMPLE_TASK_ITEMS = [
-    {"priority": "??", "content": "??? ??"},
-    {"priority": "??", "content": "3?? ?? ??"},
-    {"priority": "??", "content": "??? ?? ?? ??"},
+    {"priority": "중요", "content": "제안서 수정"},
+    {"priority": "보통", "content": "3분기 실적 정리"},
+    {"priority": "중요", "content": "메일함 중요 답변 처리"},
 ]
 SAMPLE_DEADLINE_ITEMS = [
-    {"time": "17:00", "priority": "???", "content": "??? ??? ??"},
-    {"time": "16:30", "priority": "??", "content": "???? ?? ?? ?? ??"},
+    {"time": "17:00", "priority": "최우선", "content": "고객사 제안서 제출"},
+    {"time": "16:30", "priority": "중요", "content": "팀장님께 주간 보고 초안 전달"},
 ]
 SAMPLE = {
     "tasks": "- 제안서 수정\n- 3분기 실적 정리\n- 메일함 중요 답변 처리",
